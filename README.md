@@ -18,6 +18,7 @@ Department: Human Genetics
 ### Folder Details
 
 **Github:**
+
 *ChrIV_Top 20 overrepresented hetero*: The files containing the YeastMine and SGD categorization of the 20 more overrepresented heterozygous positions SNP positions
 *Figures*: Graphs and coverage plots generated from the code. 
 *Misc*: Miscellaneous files that may be useful in the future
@@ -27,7 +28,7 @@ Department: Human Genetics
 
 *yeast_parent_vcf*: Training data. Graphs and files generated using parental strain data (PSL2 and PSL5)
 
-**[Google Drive](https://drive.google.com/drive/folders/1HIl4nvqCt4sGISSIpqAPKxpuDF3zcnnY?usp=sharing):
+**[Google Drive]**(https://drive.google.com/drive/folders/1HIl4nvqCt4sGISSIpqAPKxpuDF3zcnnY?usp=sharing):
 
 *Scoring Genotype by Region.zip*
 - Contains all the intermediate data files (csv) and plots made by using Method A, B and C to generate the average psl2% in 6kbp and 15kbp windows  
